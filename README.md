@@ -16,7 +16,6 @@
 ![Mission](https://img.shields.io/badge/MISSION-OPEN%20SOURCE-00E5A8?style=for-the-badge&labelColor=020617)
 ![Focus](https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-7C3AED?style=for-the-badge&labelColor=020617)
 
-![Profile Views](https://komarev.com/ghpvc/?username=arcphantom-opensource&label=SIGNAL%20DETECTED&color=0B3A5B&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/arcphantom-opensource?label=FOLLOWERS&style=for-the-badge&color=0B3A5B&labelColor=020617)
 
 </div>
